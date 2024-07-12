@@ -53,8 +53,7 @@ nav ul {
   line-height: 102px;
   font-size: 108px;
 }
-.hero
- p {
+.hero p {
   font-weight: 600;
   color: var(--gray);
   max-width: 400px;
